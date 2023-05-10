@@ -1,0 +1,66 @@
+{
+    "golflevel":[{
+        "level": 1,
+        "ballpos":[225,225],
+        "holepos":[490,250],
+        "obstaclestart":[],
+        "obstacleend":[]
+    },
+    {
+        "level":2,
+        "ballpos":[712, 212],
+        "holepos":[20,480],
+        "obstaclestart":[],
+        "obstacleend":[]
+    },
+    {
+        "level":3,
+        "ballpos":[162,262],
+        "holepos":[900,250],
+        "obstaclestart":[[490,100]],
+        "obstacleend":[[100,300]]
+    },
+    {
+        "level":4,
+        "ballpos":[100,200],
+        "holepos":[100,450],
+        "obstaclestart":[[100,325]],
+        "obstacleend":[[200,50]]
+    },
+    {
+        "level":5,
+        "ballpos":[490,250],
+        "holepos":[900,500],
+        "obstaclestart":[[780,450]],
+        "obstacleend":[[200,50]]
+    },
+    {
+        "level":6,
+        "ballpos":[800,450],
+        "holepos":[20,80],
+        "obstaclestart":[[100,100],[300,300]],
+        "obstacleend":[[100,75],[100,100]]
+    },
+    {
+        "level":7,
+        "ballpos":[150,150],
+        "holepos":[700,200],
+        "obstaclestart":[[60,175]],
+        "obstacleend":[[400,100]]
+    },
+    {
+        "level":8,
+        "ballpos":[600,200],
+        "holepos":[120,180],
+        "obstaclestart":[[100,100],[300,300],[0,100]],
+        "obstacleend":[[600,75],[100,100],[100,300]]
+    },
+    {
+        "level":9,
+        "ballpos":[120,180],
+        "holepos":[700,100],
+        "obstaclestart":[],
+        "obstacleend":[]
+    }
+]
+}
